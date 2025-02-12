@@ -25,9 +25,9 @@
 - 011 - Jeremias possui um cronômetro que consegue marcar o tempo apenas em segundos. Sabendo disso, desenvolva um algoritmo que receba o tempo cronometrado, em segundos, e diga quantas horas, minutos e segundos se passaram a partir do tempo cronometrado.
   - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-011/main.c)
 - 012 - Desenvolva um algoritmo que emule um caixa eletrônico. O usuário deve inserir o valor total a ser sacado da máquina e o algoritmo deve informar quantas notas de 100, 50, 20, 10, 5 ou 2 reais serão entregues. Deve-se escolher as notas para que o usuário receba o menor número de notas possível.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-012/main.c)
 - 013 - Faça um programa que receba um número positivo e maior que zero, calcule e mostre: a) o número digitado ao quadrado; b) o número digitado ao cubo; c) a raiz quadrada do número digitado; d) a raiz cúbica do número digitado.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-013/main.c)
 - 014 - Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
     - [Não Resolvido Ainda]()
 - 015 - Sabe-se que: 1 pé = 12 polegadas; 1 jarda = 3 pés; 1 milha = 1760 jardas. Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados: a) polegadas; b) jardas; c) milhas.
