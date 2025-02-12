@@ -21,9 +21,9 @@
 - 009 - Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
   - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-009/main.c)
 - 010 - Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = Pi * R², onde Pi = 3,14.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-010/main.c)
 - 011 - Jeremias possui um cronômetro que consegue marcar o tempo apenas em segundos. Sabendo disso, desenvolva um algoritmo que receba o tempo cronometrado, em segundos, e diga quantas horas, minutos e segundos se passaram a partir do tempo cronometrado.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-011/main.c)
 - 012 - Desenvolva um algoritmo que emule um caixa eletrônico. O usuário deve inserir o valor total a ser sacado da máquina e o algoritmo deve informar quantas notas de 100, 50, 20, 10, 5 ou 2 reais serão entregues. Deve-se escolher as notas para que o usuário receba o menor número de notas possível.
     - [Não Resolvido Ainda]()
 - 013 - Faça um programa que receba um número positivo e maior que zero, calcule e mostre: a) o número digitado ao quadrado; b) o número digitado ao cubo; c) a raiz quadrada do número digitado; d) a raiz cúbica do número digitado.
