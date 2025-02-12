@@ -29,8 +29,8 @@
 - 013 - Faça um programa que receba um número positivo e maior que zero, calcule e mostre: a) o número digitado ao quadrado; b) o número digitado ao cubo; c) a raiz quadrada do número digitado; d) a raiz cúbica do número digitado.
   - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-013/main.c)
 - 014 - Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-014/main.c)
 - 015 - Sabe-se que: 1 pé = 12 polegadas; 1 jarda = 3 pés; 1 milha = 1760 jardas. Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados: a) polegadas; b) jardas; c) milhas.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-015/main.c)
 - 016 - Faça um programa que receba o ano de nascimento de uma pessoa e ano atual, calcule e mostre: a) a idade dessa pessoa; b) quantos anos essa pessoa terá em 2030.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-016/main.c)
