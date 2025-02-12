@@ -9,11 +9,11 @@
 - 003 - Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada dessas notas.
   - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-003/main.c)
 - 004 - Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo que este sofreu um aumento de 25%.
-  - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-004/main.c)
 - 005 - Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
-  - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-005/main.c)
 - 006 - Faça um programa que receba o salário-base de um funcionário, calcule e mostre o salário a receber, sabendo que esse funcionário tem gratificação de 5% sobre o salário-base e paga imposto de 7% sobre o salário-base.
-  - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-006/main.c)
 - 007 - Faça um programa que receba o salário-base de um funcionário, calcule e mostre o seu salário a receber, sabendo que esse funcionário teve gratificação de R$ 600,00 e paga imposto de 10% sobre o salário base.
     - [Não Resolvido Ainda]()
 - 008 - Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
