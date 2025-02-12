@@ -15,11 +15,11 @@
 - 006 - Faça um programa que receba o salário-base de um funcionário, calcule e mostre o salário a receber, sabendo que esse funcionário tem gratificação de 5% sobre o salário-base e paga imposto de 7% sobre o salário-base.
   - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-006/main.c)
 - 007 - Faça um programa que receba o salário-base de um funcionário, calcule e mostre o seu salário a receber, sabendo que esse funcionário teve gratificação de R$ 600,00 e paga imposto de 10% sobre o salário base.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-007/main.c)
 - 008 - Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-008/main.c)
 - 009 - Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
-    - [Não Resolvido Ainda]()
+  - [Resolução](https://github.com/christianodavid/estrutura-sequencial-c/blob/main/exercicio-009/main.c)
 - 010 - Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = Pi * R², onde Pi = 3,14.
     - [Não Resolvido Ainda]()
 - 011 - Jeremias possui um cronômetro que consegue marcar o tempo apenas em segundos. Sabendo disso, desenvolva um algoritmo que receba o tempo cronometrado, em segundos, e diga quantas horas, minutos e segundos se passaram a partir do tempo cronometrado.
